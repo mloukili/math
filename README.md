@@ -1,5 +1,5 @@
 # Problem 1
-Write a function that takes a magic number and a list of numbers. It returns true if it can insert add or subtract operations in the list of numbers to get the magic number. Otherwise, it returns false.
+Write a function that takes a magic number and a list of numbers. It returns true if it can add or subtract operations in the list of numbers to get the magic number. Otherwise, it returns false.
 
 # Solution 1
 
